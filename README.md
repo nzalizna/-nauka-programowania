@@ -10,3 +10,4 @@ Kierunek: Bazy danych i ich aplikacje.
 - Zbudować pierwsze aplikacje webowe
 
 1.Uczę się Git i GitHub
+2.Buduję pierwszą aplikację
