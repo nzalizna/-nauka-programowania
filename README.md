@@ -8,3 +8,5 @@ Kierunek: Bazy danych i ich aplikacje.
 - Nauczyć się programowania w C#
 - Poznać Git i GitHub
 - Zbudować pierwsze aplikacje webowe
+
+1.Uczę się Git i GitHub
